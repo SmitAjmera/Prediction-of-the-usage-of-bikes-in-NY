@@ -1,6 +1,6 @@
 ---
 title: "Project 2"
-author: "Smit Ajmera,Yi Xie, Jaymeen Gandhi, Sweni Thakkar-IS665"
+author: "Smit Ajmera-IS665"
 date: "12/8/2019"
 output: html_document
 ---
